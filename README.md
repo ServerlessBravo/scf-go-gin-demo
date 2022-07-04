@@ -22,3 +22,20 @@ deploy from zip:
 函数类型	Web函数
 运行环境	Go 1
 ···
+```
+
+## Test
+
+```bash
+curl https://service-xxx.sh.apigw.tencentcs.com/release/index
+```
+
+Output:
+
+```html
+<html>
+    <h1>
+        Main website
+    </h1>
+</html>
+```
